@@ -1,6 +1,5 @@
 #1st question
 def count(str):
-    str=str
     vowels=0
     consonents=0
     vowel="aeiou"
